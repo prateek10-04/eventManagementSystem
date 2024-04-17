@@ -59,5 +59,4 @@ Vendors can review and confirm pending orders placed by participants.
 Add Item to Menu
 Vendors have the ability to update their menu by adding new items, specifying the item name and price.
 
-Conclusion
-This README provides a comprehensive overview of the DBMS project, detailing the various functionalities available to participants, admins, and vendors. With its user-friendly interface and tailored features, the system aims to streamline event management processes and enhance user experiences.
+This readme helps to navigate around the application, explaining what each action does.
